@@ -78,6 +78,13 @@ a {
   pointer-events: none;
   opacity: 0.9;
 }
+.foto-infancia img {
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid #c6a257;
+}
 .tl {
   left: 0;
   top: 0;
